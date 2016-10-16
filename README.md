@@ -1,5 +1,8 @@
 # Silex Environment ServiceProvider
 
+[![Build Status](https://travis-ci.org/frostieDE/silex-environment-serviceprovider.svg?branch=master)](https://travis-ci.org/frostieDE/silex-environment-serviceprovider)
+[![Code Climate](https://codeclimate.com/github/frostieDE/silex-environment-serviceprovider/badges/gpa.svg)](https://codeclimate.com/github/frostieDE/silex-environment-serviceprovider)
+
 ServiceProvider for Silex which empowers use of environments like prod, dev etc.
 Environments can be changed using an environment variable.
 
